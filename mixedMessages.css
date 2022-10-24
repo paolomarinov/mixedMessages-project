@@ -5,9 +5,24 @@
 }
 
 #generate {
-  width: 10%;
+  width: 20%;
+  height: 50px;
+  font-size: 35px;
 }
 
 body {
-  background-color: rgb(224, 150, 54);
+  background-color: rgb(255, 255, 255);
+}
+
+#genPhrase {
+  background-color: white;
+  text-align: center;
+  font-size: 35px;
+  margin: 10% auto;
+  background-color: aqua;
+  transition: 1s;
+}
+
+.footer {
+  text-align: center;
 }
