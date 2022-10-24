@@ -19,6 +19,7 @@ body {
   text-align: center;
   font-size: 35px;
   margin: 10% auto;
+  padding: 25px;
   background-color: aqua;
   transition: 1s;
 }
