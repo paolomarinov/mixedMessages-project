@@ -1,0 +1,13 @@
+.generator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#generate {
+  width: 10%;
+}
+
+body {
+  background-color: rgb(224, 150, 54);
+}
