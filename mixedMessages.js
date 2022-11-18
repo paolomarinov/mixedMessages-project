@@ -20,6 +20,7 @@ const starters = [
 ];
 
 const middleSentences = [
+  "Life is an architectural masterpiece designed by you, and you can bend it to your will.",
   "Your smile can change the world.",
   "You have the freedom to choose your own path.",
   "You can always endure and succeed.",
@@ -39,6 +40,8 @@ const middleSentences = [
   "You are the architecht of your own growth.",
   "Never be too hard on yourself, for you are only doing your best.",
   "The pain and struggle you have faced is the foundations for the better you.",
+  "Dreams are made every day, and every day they can be made real.",
+  "Choice and action are the pen and paper of your own story.",
 ];
 
 const enders = [
